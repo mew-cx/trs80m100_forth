@@ -1,2 +1,3 @@
 # trs80m100_forth
-fig-FORTH for the TRS80 Model100
+
+A <A HREF="http://www.forth.org">fig-FORTH interpreter</A> for the TRS-80 Model 100 laptop (Feb 1986)
